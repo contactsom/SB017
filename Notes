@@ -1,0 +1,78 @@
+First class
+
+
+can you just reexplain what is the IDE in short? do we need to understand it or it is for the advanced programmer?
+
+
+
+
+
+************
+If I will ask you
+
+
+so you are saying int can store a value of any length?
+
+
+No when we started we defined
+int a = 10 # Invalid
+
+a = 10 # valid
+
+and then tried to print, why was there an error?
+
+
+UAS- True
+    1. get me 1 Liter Banana
+    2. Get me 1 foot water
+
+INDIA- False
+    1. get me 1 Liter Banana
+    2. Get me 1 foot water
+
+
+
+So like we define string within double quotes but what is string in actual?
+"ABC"- String
+A- Character
+B- Character
+C- Character
+And if its a decimal number can mathematical calculations be done on it?
+
+# I want to store the all the student phone numer in a class
+# I want to store the all the student Email id in a class
+
+
+
+I tried to install python using anaconda but I was getting error
+
+
+doubt there sir sometimes i got confused between
+list and array how python will decide this is a array or list?
+we are declaring both in []
+
+#Can we give two different types of variable in list i.e. int and string both at the same time?
+# which data type will take more time to process
+
+
+
+
+int a = 10
+int b = 20
+int c = a+b
+print(c) #
+
+
+a = 10
+
+
+
+
+
+
+
+
+
+
+
+
