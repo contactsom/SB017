@@ -70,9 +70,43 @@ a = 10
 
 
 
+Why you dont do if else in the code?-
+Better way to understand is also show an example
+that prints true if the statement is correct and false if the statement is false
+
+
+I am getting the same result with True and False, only the last line is getting executed in both ways
 
 
 
 
 
+
+# Case -4
+#  """
+print("Hello World-1")
+print("Hello World-2")
+#  """
+
+
+Line number 90 and 91 is commented or not ?
+
+
+
+
+
+a= 20
+
+a > 10
+a > 15
+a > 19
+
+
+
+can we put sentence in a list and how to add extra words then how can we do- List
+
+
+
+
+for loop to execute only first 3 elements of companyname. how to do it ?
 

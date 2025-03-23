@@ -7,6 +7,13 @@
 # Session ID	   : 92393257416
 
 https://lms.simplilearn.com/nps/session/67cee33f1299550865c19911/1742650200000/95312636635/zoom
+https://lms.simplilearn.com/nps/session/67cee33f1299550865c19911/1742736600000/95312636635/zoom
+
+
+
+sir please uploard recording and other materials of this sesion just by ending of the sesion
+
+
 
 
 
