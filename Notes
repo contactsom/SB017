@@ -103,10 +103,33 @@ a > 19
 
 
 
-can we put sentence in a list and how to add extra words then how can we do- List
+
+
+so sir if we have to print any data from set we always have to convert into list then we will able to retrieved?
+
+What is diff between union and update function
 
 
 
 
-for loop to execute only first 3 elements of companyname. how to do it ?
+
+myTuple=( 10, 20, 30, 40, 50, 60, 70 )
+print(myTuple[0]) # 10
+myTuple[0]=100
+print(myTuple) # ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
