@@ -1,0 +1,36 @@
+1. **User and Admin Authentication**
+   - Separate login systems for users and admins
+   - Session management using session IDs
+   - Role-based access control
+
+2. **Product Management**
+   - Display products with categories, prices, and IDs
+   - Admin functionality to add, update, and delete products
+   - Product categorization
+
+3. **Category Management**
+   - Admin can add and delete product categories
+   - Categories are linked to products
+
+4. **Shopping Cart Functionality**
+   - Users can add and remove items from their cart
+   - Cart displays product details, quantities, and totals
+   - Cart is associated with user session
+
+5. **Checkout Process**
+   - Multiple payment options (UPI, Debit Card, Credit Card, etc.)
+   - Order confirmation messages
+   - Cart clearing after successful checkout
+
+6. **Access Control**
+   - Users cannot access admin functions
+   - Admins cannot perform user shopping actions
+   - Proper error messages for unauthorized access attempts
+
+7. **How to Run**
+
+The implementation uses in-memory data structures (dictionaries) to simulate a database.
+To run the application, simply execute the script and follow the interactive menu prompts.
+You can test all the functionality with the demo user accounts
+For Regular Users ["user1"/"pass1"]
+For Admin Access ["admin1"/"admin1"]
